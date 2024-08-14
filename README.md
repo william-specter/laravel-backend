@@ -30,6 +30,7 @@ These are pre-installed packages to make working with the framework easier.
 - **[Laravel-permission](https://spatie.be/docs/laravel-permission/v6/installation-laravel)**
 - **[Laravel-excel](https://laravel-excel.com/)**
 - **[Broadcasting (Reverb, Pusher)](https://laravel.com/docs/11.x/broadcasting)**
+- **[Laravel-user-verification](https://github.com/jrean/laravel-user-verification)**
 
 
 ## License
