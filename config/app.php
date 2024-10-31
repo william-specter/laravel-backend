@@ -122,10 +122,4 @@ return [
         'driver' => env('APP_MAINTENANCE_DRIVER', 'file'),
         'store' => env('APP_MAINTENANCE_STORE', 'database'),
     ],
-
-    // Aliases
-    // 'aliases' => [
-    //     'UserVerification' => Jrean\UserVerification\Facades\UserVerification::class,
-    //     'Excel' => Maatwebsite\Excel\Facades\Excel::class,
-    // ],
 ];
